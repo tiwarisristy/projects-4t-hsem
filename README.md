@@ -35,7 +35,8 @@ attractive-calculator/
 ```  
 
 ## 🖼️ Preview  
-![Calculator Preview](#)  
+![image](https://github.com/user-attachments/assets/a49cb9b3-8539-48c8-8531-be15ac6faf10)
+  
   
 
 ## 📚 Learning Outcome  
